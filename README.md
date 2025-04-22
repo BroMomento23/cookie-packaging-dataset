@@ -1,7 +1,7 @@
-# cookie-packaging-dataset
-Base de datos de empaques de galletas buenos y defectuosos
-## Dataset
+## 📦 Dataset Download
 
-You can download the full dataset from the following link:
+You can download the full dataset used in this study from the following link:
 
-👉 [Cookie Packaging Dataset (Google Drive)]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/11nnwsYAOQbcai7attpnob96nfGpT3QO4?usp=sharing))
+🔗 [Download Cookie_Packaging_Dataset.zip (Google Drive)] (https://drive.google.com/drive/folders/11nnwsYAOQbcai7attpnob96nfGpT3QO4?usp=drive_link)
+
+> ⚠️ Note: Google Drive does not preview ZIP files, but the link will download the dataset directly.
